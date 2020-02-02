@@ -22,7 +22,7 @@ p, input {
 }
 
 .todo-completed {
-  p, .todo-suntext {
+  p, .todo-subtext {
     color: $light-color;
     text-decoration: line-through;
   }
